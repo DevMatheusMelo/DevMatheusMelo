@@ -2,4 +2,4 @@ Descrição e Expecificações:
 Dev -> Matheus Melo;
 Data -> 07/05/2021 08:42;
 Branch -> Master
-Contempla: Atualmente o código e as funcionalidades estão em análise e aprovação. A página esta coma base do código HTML. 
+Contempla: Header dá página = Barra de Navegação horizontal e responsiva com 4 páginas. 
